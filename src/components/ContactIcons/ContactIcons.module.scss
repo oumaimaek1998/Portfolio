@@ -1,0 +1,11 @@
+.contactIcons {
+  a {
+    cursor: pointer;
+    margin: 10px;
+    color: gray;
+
+    &:hover {
+      color: rgb(232, 232, 238);
+    }
+  }
+}

@@ -1,0 +1,18 @@
+.footer {
+  color: grey;
+  background-color: rgb(8 8 8);
+  position: relative;
+  bottom: 0;
+
+  &__row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  &__copyright {
+    text-align: center;
+    padding: 20px;
+  }
+}
